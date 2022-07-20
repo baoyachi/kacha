@@ -1,5 +1,5 @@
 # kacha
-📷 ‘咔嚓’，’喀嚓‘. Similar to Camera SLR sound. Take a kacha. 
+📷 ‘咔嚓’，’喀嚓‘. Similar to Camera SLR sound. Take a kacha. Snapshot
 
 ```
 ██   ██  █████   ██████ ██   ██  █████
