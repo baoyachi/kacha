@@ -1,0 +1,16 @@
+[package]
+name = "kacha"
+version = "0.1.0"
+authors = ["baoyachi <liaoymxsdl@gmail.com>"]
+edition = "2021"
+description = "‘咔嚓’，’喀嚓‘ Take a kacha."
+keywords = ["kaca", "kacha", "kc", "snapshot", "shot"]
+readme = "README.md"
+repository = "https://github.com/baoyachi/kacha"
+documentation = "https://docs.rs/kacha"
+homepage = "https://github.com/baoyachi/kacha"
+license = "Apache-2.0"
+default-run = "kacha"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
